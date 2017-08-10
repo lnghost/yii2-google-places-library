@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-google-places-library",
+    "name": "lnghost/yii2-google-places-library",
     "description": "Google Places API Library for Yii2.",
     "keywords": ["yii", "extension", "library", "google", "places"],
     "type": "yii2-extension",
